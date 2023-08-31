@@ -11,7 +11,7 @@ Explore the folders below to see projects I've worked on using various tools and
 Folder containing SQL practice projects that demonstrate my proficiency in querying and analyzing data using SQL.
 
 ### Excel Projects (in progress..)
-Folder showcasing projects that leverage Microsoft Excel for data analysis, visualization, and manipulation.
+Folder showcasing projects that leverage Microsoft Excel for data manipulation, analysis and visualization.
 
 ### Tableau (in progress..)
 Folder featuring projects developed using Tableau for interactive data visualization and storytelling.
