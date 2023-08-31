@@ -1,7 +1,9 @@
 # Data Analyst Portfolio
 
-Welcome to my Data Analyst Portfolio repository! This repository is a collection of projects that showcase my journey as a data analyst, from learning to expertise.
+Welcome to my Data Analyst Portfolio repository. This is a collection of projects that showcase my journey as a data analyst, from learning to expertise.
 Explore the folders below to see projects I've worked on using various tools and techniques.
+
+*Note: Some folders might not be presented due to non-disclosure agreements with previous employers. I will continue to populate these folders with new projects to showcase my ongoing growth and expertise.*
 
 ## Folders and Projects
 
