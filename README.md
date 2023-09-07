@@ -3,7 +3,7 @@
 Welcome to my Data Analyst Portfolio repository. This is a collection of projects that showcase my journey as a data analyst, from learning to expertise.
 Explore the folders below to see projects I've worked on using various tools and techniques.
 
-*Note: Some folders might not be presented due to non-disclosure agreements with previous employers. I will continue to populate these folders with new projects to showcase my ongoing growth and expertise.*
+*Note: Some folders might not be presented due to non-disclosure agreements with previous employers. I will continue to populate these folders with new projects to showcase my ongoing growth.*
 
 ## Folders and Projects
 
@@ -13,11 +13,11 @@ Folder containing SQL practice projects that demonstrate my proficiency in query
 ### Excel Projects (in progress..)
 Folder showcasing projects that leverage Microsoft Excel for data manipulation, analysis and visualization.
 
-### Tableau (in progress..)
-Folder featuring projects developed using Tableau for interactive data visualization and storytelling.
-
 ### Power BI (in progress..)
 Folder containing projects created with Power BI to showcase data insights and analytics.
+
+### Tableau (in plans..)
+Folder featuring projects developed using Tableau for interactive data visualization and storytelling.
 
 ### Python (in progress..)
 Folder showcasing Python projects, including data analysis, scripting, and other data-related tasks.
